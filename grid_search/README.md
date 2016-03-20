@@ -12,9 +12,9 @@
      876543  
      111111  
      111111
-- If we scan through the original array, we observe that the 2D pattern begins at the second row and the third column of the larger grid (the 88 in the second row and third column of the larger grid is the top-left corner of the pattern we are searching for).
+- If we scan through the original array, we observe that the 2D pattern begins at the second row and the third column of the larger grid (the 8 in the second row and third column of the larger grid is the top-left corner of the pattern we are searching for).
 
-- So, a 2D pattern of PP digits is said to be present in a larger grid GG, if the latter contains a contiguous, rectangular 2D grid of digits matching with the pattern PP, similar to the example shown above.
+- So, a 2D pattern of P digits is said to be present in a larger grid G, if the latter contains a contiguous, rectangular 2D grid of digits matching with the pattern P, similar to the example shown above.
 
 
 
